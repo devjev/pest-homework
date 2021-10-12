@@ -1,0 +1,2 @@
+text = { anything* }
+anything = { ANY } // try changing this to '_{ ANY }' and see what happens.

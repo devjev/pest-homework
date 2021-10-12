@@ -1,0 +1,4 @@
+// This is an example reverse polish notation syntax.
+// The program should ignore these comments and evaluate
+// the line below, outputting '12' to the terminal.
+1 2 + 4 *
